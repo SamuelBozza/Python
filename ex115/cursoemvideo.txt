@@ -1,0 +1,4 @@
+José;35
+Samuel;20
+Maria;85
+Antonio;35
